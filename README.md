@@ -1,1 +1,1 @@
-# aws-cost-notifier
+# lambda-functions
